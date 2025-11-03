@@ -1,0 +1,13 @@
+{
+  "examName": "امتحان الوحده الاولي",
+  "language": "ar",
+  "time": "30",
+  "questions": [
+    {
+      "text": "من هي سميرهموير",
+      "type": "text",
+      "answer": "عالمه ذره",
+      "choices": []
+    }
+  ]
+}
